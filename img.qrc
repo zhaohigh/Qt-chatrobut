@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/magic.jpg</file>
+        <file>img/space.jpg</file>
+        <file>img/fault.jpg</file>
+        <file>img/right.jpg</file>
+    </qresource>
+</RCC>
